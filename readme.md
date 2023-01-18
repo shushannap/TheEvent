@@ -1,9 +1,9 @@
 ### Disclaimer: 
 - This website was created as a group project during General Assembly's Software Engineering Immersive program.
-- The original repo for this project with all contributors can be found at ![Github Original Repository](https://github.com/LionMagnus/The-Event)
-- This website was created by ![Hua Wang](https://github.com/LionMagnus), ![Kelly Daye](https://github.com/kelso-gh), and ![Shushanna Petrosyan](https://github.com/shushannap) 
+- The original repo for this project with all contributors can be found at [Github Original Repository](https://github.com/LionMagnus/The-Event)
+- This website was created by [Hua Wang](https://github.com/LionMagnus), [Kelly Daye](https://github.com/kelso-gh), and [Shushanna Petrosyan](https://github.com/shushannap) 
 - Everything below this disclaimer is directly copied and pasted from the original repository. Due to some unfortunate changes dealing with Heroku at the time of deployment, the original repo and deployment link did not work properly.
-
+- Please visit the functional website at <a href="https://theevent.herokuapp.com/">The Event</a>
 
 # ✆THE EVENT✆
 
