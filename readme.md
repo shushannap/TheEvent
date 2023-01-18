@@ -1,3 +1,10 @@
+### Disclaimer: 
+- This website was created as a group project during General Assembly's Software Engineering Immersive program.
+- The original repo for this project with all contributors can be found at ![Github Original Repository](https://github.com/LionMagnus/The-Event)
+- This website was created by ![Hua Wang](https://github.com/LionMagnus), ![Kelly Daye](https://github.com/kelso-gh), and ![Shushanna Petrosyan](https://github.com/shushannap) 
+- Everything below this disclaimer is directly copied and pasted from the original repository. Due to some unfortunate changes dealing with Heroku at the time of deployment, the original repo and deployment link did not work properly.
+
+
 # ✆THE EVENT✆
 
 You've got...<br>
@@ -46,7 +53,7 @@ They are able to:<br><br>
 
 It's time to plan! Click the link below to curate your event.
 
-<a href="https://the-event.herokuapp.com/">The Event</a>
+<a href="https://theevent.herokuapp.com/">The Event</a>
 
 
 
