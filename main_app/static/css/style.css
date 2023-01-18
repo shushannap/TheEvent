@@ -1,0 +1,108 @@
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  background-color: rgb(69, 79, 81);
+  color: rgb(57, 121, 137);
+  font-family: 'Courier New', Courier, monospace;
+}
+
+main {
+  flex: 1 0 auto;
+}
+
+footer.page-footer {
+  padding-top: 0;
+  text-align: right;
+}
+
+img{
+  width:100%;
+  max-width:600px;
+  margin-top: 10px;
+  padding-top: 10px;
+  justify-content: center;
+}
+
+
+.nav-wrapper {
+  width: 100%;
+  margin: 0 auto;
+  background-color: rgb(57, 121, 138);
+  min-width: 460px;
+}
+
+.card {
+  background-color: rgb(232, 228, 192);
+  color: black;
+  justify-content: left;
+  display: block;
+  border-color: black;
+  border-radius: 5px;
+}
+
+.page-footer {
+  background-color: rgb(57, 121, 138);
+  color: paleturquoise
+}
+
+
+.text-box {
+  background-color: white;
+}
+
+.aboutimage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+.homeimage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 150%;
+}
+
+.button {
+  color: white; 
+}
+
+.card-panel {
+  background-color: rgb(235, 228, 192);
+  display: block;
+  color: black;
+}
+
+h6 {
+  justify-content: center;
+  display: flex;
+  justify-items: center;
+}
+
+h5 {
+  justify-content: left;
+  display: flex;
+  justify-items: center;
+}
+
+.attendeestitle1 {
+  justify-content: left;
+  display: flex;
+  justify-items: center;
+  border-color: black;
+  border-radius: 20px;
+}
+
+.commentstable {
+  background-color: rgb(235, 228, 192);
+  color: rgb(69, 79, 81);
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-color: black;
+  border-radius: 5px;
+}
+
+
